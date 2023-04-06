@@ -32,7 +32,7 @@
 
 # 📖 [Hello-World-UI] <a name="about-project"></a>
 
-**[Hello-World-UI] ** is a project from the sixth module of the Microverse program. [backEnd Link](https://github.com/muskan2532150/Hello-world-Api.git)
+**[Hello_frontend] ** is a project from the sixth module of the Microverse program. [backEnd Link](https://github.com/)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -73,7 +73,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-- Clone [this repository]( https://github.com/muskan2532150/Hello-world-Api.git )
+- Clone [this repository]( https://github.com/soulemanou-software/Hello_backend.git )
 
 ### Install
 
@@ -105,11 +105,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muskan Gupta**
+👤 **Soulemanou kunchiefuh babanou**
 
-- GitHub: [Muskan Gupta](https://github.com/muskan2532150)
-- Twitter: [Muskan Gupta](https://twitter.com/muskan2532150)
-- Linkedin: [Muskan Gupta](https://www.linkedin.com/in/muskan-gupt/)
+- GitHub: [Soulemanou Kunchiefuh Babanou](https://github.com/soulemanou-software)
+- Twitter: [soulemanou](https://twitter.com/Mr_babanou)
+- Linkedin: [soulemanou kunchiefuh babanou](https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
